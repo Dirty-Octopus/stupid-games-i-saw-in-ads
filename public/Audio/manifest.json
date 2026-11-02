@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "sounds": [
+    {
+      "id": "ui.confirm",
+      "file": "shared/ui-confirm.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "ui.back",
+      "file": "shared/ui-back.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.move",
+      "file": "gravity-snake/move.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.blocked",
+      "file": "gravity-snake/blocked.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.eat",
+      "file": "gravity-snake/eat.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.fall",
+      "file": "gravity-snake/fall.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.land",
+      "file": "gravity-snake/land.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.die",
+      "file": "gravity-snake/die.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.win",
+      "file": "gravity-snake/win.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.restart",
+      "file": "gravity-snake/restart.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.expand",
+      "file": "gravity-snake/expand.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "gravity-snake.bite",
+      "file": "gravity-snake/bite.wav",
+      "ready": true,
+      "loop": false
+    },
+    {
+      "id": "ui.ending",
+      "file": "shared/ending.wav",
+      "ready": true,
+      "loop": false
+    }
+  ]
+}

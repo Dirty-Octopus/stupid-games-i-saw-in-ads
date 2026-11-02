@@ -1,0 +1,31 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": true,
+  "assets": [
+    {
+      "name": "monster",
+      "prompt": "A massive squat dark-plum clay pursuit monster facing right in orthographic side view, enormous open jaws, ivory triangular teeth, fierce amber eyes, coral back spikes, stocky clawed forelimbs. Bold readable silhouette, subtle organic texture, upper-left lighting, complete isolated character with transparent alpha, no scenery, text, gore or accessories."
+    },
+    {
+      "name": "snake-head",
+      "prompt": "Use case: stylized-concept. Asset type: production-ready game sprite for a 2D grid-based gravity snake game, genuine transparent alpha background. One isolated object, no scenery, no ground plane, no text, no labels, no watermark, no extra objects. Hand-sculpted matte clay / soft rubber, subtle organic surface grain, broad rounded bevels, crisp controlled lighting from upper left and shaded lower-right edges. Polished game art, readable at 30 pixels. Orthographic frontal/top view appropriate for a flat 2D grid, NOT isometric. Square canvas 1024x1024. Object centered, occupies 90 percent of canvas. A lime green rounded-square snake head viewed from above, facing RIGHT. A thick rounded cuboid with smooth green skin, subtle scale-like dimples. Two ivory eyes with round black pupils on the right half arranged vertically, looking right. A small friendly but focused mouth at the right edge, no tongue. The head must be essentially a square segment, fit cleanly into a 2D tile grid. No body, neck, legs or accessories.",
+      "status": "retired: replaced by snake-body.png plus independently drawn SVG eyes; original kept only in gitignored production/audio-reference/retired-art/"
+    },
+    {
+      "name": "snake-body",
+      "prompt": "Use case: stylized-concept. Asset type: production-ready game sprite for a 2D grid-based gravity snake game, genuine transparent alpha background. One isolated object, no scenery, no ground plane, no text, no labels, no watermark, no extra objects. Hand-sculpted matte clay / soft rubber, subtle organic surface grain, broad rounded bevels, crisp controlled lighting from upper left and shaded lower-right edges. Polished game art, readable at 30 pixels. Orthographic frontal/top view appropriate for a flat 2D grid, NOT isometric. Square canvas 1024x1024. Object centered, occupies 90 percent of canvas. One lime green rounded-square snake BODY segment, a plump rounded cuboid viewed from above. Subtle small overlapping scale impressions on the top, a pale yellow-green soft highlight, dark green bottom bevel. No face, no eyes, no limbs, no neck, no tail, no other segments. Simple solid square silhouette with mildly rounded corners so repeated segments can connect in all four directions."
+    },
+    {
+      "name": "apple",
+      "prompt": "Use case: stylized-concept. Asset type: production-ready game sprite for a 2D grid-based gravity snake game, genuine transparent alpha background. One isolated object, no scenery, no ground plane, no text, no labels, no watermark, no extra objects. Hand-sculpted matte clay / soft rubber, subtle organic surface grain, broad rounded bevels, crisp controlled lighting from upper left and shaded lower-right edges. Polished game art, readable at 30 pixels. Orthographic frontal/top view appropriate for a flat 2D grid, NOT isometric. Square canvas 1024x1024. Object centered, occupies 90 percent of canvas. A single plump red apple, almost spherical but organically lobed, a small indent at top, curved short brown stem and one small sage green leaf pointing upper right. Rich red matte clay surface with a warm coral highlight, deep red shaded lower-right. Complete apple with stem and leaf, isolated. No face, no bite."
+    },
+    {
+      "name": "earth-block",
+      "prompt": "Use case: stylized-concept. Asset type: production-ready game sprite for a 2D grid-based gravity snake game, genuine transparent alpha background. One isolated object, no scenery, no ground plane, no text, no labels, no watermark, no extra objects. Hand-sculpted matte clay / soft rubber, subtle organic surface grain, broad rounded bevels, crisp controlled lighting from upper left and shaded lower-right edges. Polished game art, readable at 30 pixels. Orthographic frontal/top view appropriate for a flat 2D grid, NOT isometric. Square canvas 1024x1024. Object centered, occupies 90 percent of canvas. A single square solid earthen block tile in straight FRONT VIEW, an almost perfectly square silhouette, very slightly softened corners, flat straight vertical and horizontal edges suitable for adjoining tiles in a grid. Rich warm umber compacted clay with broad layered bands, scattered tiny embedded pebbles, subtle cracks, a lighter sandy top bevel occupying only the top 8 percent. No grass, no plants, no floating dirt, no background, no perspective. Surface detail should be readable and not visually noisy."
+    },
+    {
+      "name": "portal",
+      "prompt": "Use case: stylized-concept. Asset type: production-ready game sprite for a 2D grid-based gravity snake game, genuine transparent alpha background. One isolated object, no scenery, no ground plane, no text, no labels, no watermark, no extra objects. Hand-sculpted matte clay / soft rubber, subtle organic surface grain, broad rounded bevels, crisp controlled lighting from upper left and shaded lower-right edges. Polished game art, readable at 30 pixels. Orthographic frontal/top view appropriate for a flat 2D grid, NOT isometric. Square canvas 1024x1024. Object centered, occupies 90 percent of canvas. A single circular magical exit portal ring, straight FRONT VIEW. A sculpted thick sage-green stone ring with a few simple carved grooves, round softly bevelled edges, luminous pale lime inner rim, dark forest-green circular center containing a smooth spiral of teal and light green mist. Modest contained bloom only inside the ring. Strong circular silhouette. No pedestal, no ground, no external particles or decorations. The dark interior is opaque; outside the ring is fully transparent."
+    }
+  ]
+}
